@@ -1,0 +1,15 @@
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\bin\Debug\net9.0\NewApp.exe
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\bin\Debug\net9.0\NewApp.deps.json
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\bin\Debug\net9.0\NewApp.runtimeconfig.json
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\bin\Debug\net9.0\NewApp.dll
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\bin\Debug\net9.0\NewApp.pdb
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfoInputs.cache
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfo.cs
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.csproj.CoreCompileInputs.cache
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.sourcelink.json
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.dll
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\refint\NewApp.dll
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.pdb
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\NewApp.genruntimeconfig.cache
+D:\PhatTrienphanmemquanly\NetCoreAPI\NewApp\obj\Debug\net9.0\ref\NewApp.dll
